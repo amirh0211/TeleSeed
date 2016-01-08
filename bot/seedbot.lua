@@ -218,8 +218,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all",
-    "leave_ban"
+    "all"
     },
     sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
